@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExportaLayoutXLSX": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\BEATRIZ\\Desktop\\Testes.xlsx\" \"Código Material;Chave Externa;Código Marca;Descrição Chave Externa\""
+    }
+  }
+}
